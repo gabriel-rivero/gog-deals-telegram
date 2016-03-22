@@ -1,0 +1,12 @@
+{
+  "name": "gogdeals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.5.3",
+    "request": "^2.69.0"
+  }
+}
